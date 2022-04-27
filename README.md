@@ -1,5 +1,8 @@
 # NamedGroupParsingTest
 
+Exmaple Result:
+![image](https://user-images.githubusercontent.com/90699563/165592527-45e92041-bd40-48d4-9127-dd3134a3c3c3.png)
+
 ```csharp
     private static IDictionary<string, string> RenderTemplates { get; } =
         new Dictionary<string, string>(
